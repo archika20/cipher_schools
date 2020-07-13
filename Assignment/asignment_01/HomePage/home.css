@@ -1,0 +1,45 @@
+.main{
+    width: 100%;
+    height: auto;
+    background-color:#32cdcd;
+}
+
+img{
+    width: 99.3%;
+    height: 550px;
+    padding: 5px;
+}
+
+.navbar{
+    width: 300px;
+    height: auto;
+    background-color:#008080;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+a{
+    list-style: none;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: cyan;
+}
+
+#aboutme div{
+    font-size: larger;
+    width: 100%;
+    height: auto;
+    background-color: darkcyan;
+    margin-top: 15px;
+}
+
+#aboutme{
+    width: 50%;
+    height: auto;
+    font-size: 25px;
+    margin: 5px;
+}
